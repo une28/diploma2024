@@ -1,0 +1,68 @@
+{
+    "gameObjectSaves": [
+        {
+            "name": "SaveFile",
+            "state": "True"
+        },
+        {
+            "name": "MuteSound",
+            "state": "False"
+        },
+        {
+            "name": "CameraMainRoomWindowUIText",
+            "state": "False"
+        },
+        {
+            "name": "CameraMainRoomWindow",
+            "state": "False"
+        },
+        {
+            "name": "CameraMainRoomExit",
+            "state": "False"
+        },
+        {
+            "name": "CameraMainRoomTableBox",
+            "state": "False"
+        },
+        {
+            "name": "coin.004",
+            "state": "False"
+        },
+        {
+            "name": "coin.005ForInventory",
+            "state": "inventorySlot(Clone)"
+        },
+        {
+            "name": "ColliderMainRoomBlock",
+            "state": "False"
+        },
+        {
+            "name": "Camera302",
+            "state": "False"
+        },
+        {
+            "name": "Camera3Cross",
+            "state": "False"
+        },
+        {
+            "name": "KitchenMain",
+            "state": "False"
+        },
+        {
+            "name": "Camera3Stairs",
+            "state": "False"
+        },
+        {
+            "name": "Camera2Stairs",
+            "state": "False"
+        },
+        {
+            "name": "Camera1Stairs",
+            "state": "False"
+        },
+        {
+            "name": "Camera1Exit",
+            "state": "True"
+        }
+    ]
+}

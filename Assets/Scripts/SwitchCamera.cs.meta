@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1f47e1232b170e94e8c634e0edf1be23
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - camActive: {instanceID: 0}
+  - camToActivate: {instanceID: 0}
+  - hiddenCollider: {instanceID: 0}
+  - saveGameRef: {fileID: 7540887011602185659, guid: 61ccd19a7a212a64ea2da813d2357fb3,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
